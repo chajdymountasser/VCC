@@ -1,0 +1,15 @@
+Id:             3
+Name:           bd2c-web
+UUID:           1e536f5e-9e1f-4529-8af5-74ba50ee3572
+OS Type:        hvm
+State:          running
+CPU(s):         1
+CPU time:       41,0s
+Max memory:     786432 KiB
+Used memory:    786432 KiB
+Persistent:     yes
+Autostart:      disable
+Managed save:   no
+Security model: apparmor
+Security DOI:   0
+Security label: libvirt-1e536f5e-9e1f-4529-8af5-74ba50ee3572 (enforcing)

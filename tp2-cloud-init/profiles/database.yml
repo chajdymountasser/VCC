@@ -1,0 +1,4 @@
+packages:
+  - postgresql
+service: postgresql
+role: database

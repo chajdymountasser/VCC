@@ -1,0 +1,6 @@
+packages:
+  - htop
+  - curl
+  - vim
+service: ssh
+role: admin

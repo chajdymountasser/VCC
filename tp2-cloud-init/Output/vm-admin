@@ -1,0 +1,16 @@
+Id:             2
+Name:           bd2c-admin
+UUID:           954660f2-d25e-417f-872b-d5a06366e8ce
+OS Type:        hvm
+State:          running
+CPU(s):         1
+CPU time:       153,4s
+Max memory:     786432 KiB
+Used memory:    786432 KiB
+Persistent:     yes
+Autostart:      disable
+Managed save:   no
+Security model: apparmor
+Security DOI:   0
+Security label: libvirt-954660f2-d25e-417f-872b-d5a06366e8ce (enforcing)
+

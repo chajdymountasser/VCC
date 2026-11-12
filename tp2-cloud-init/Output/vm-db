@@ -1,0 +1,15 @@
+d:             1
+Name:           bd2c-db
+UUID:           6927f044-00e0-46ad-bce9-0c1687df47e0
+OS Type:        hvm
+State:          running
+CPU(s):         1
+CPU time:       384,0s
+Max memory:     786432 KiB
+Used memory:    786432 KiB
+Persistent:     yes
+Autostart:      disable
+Managed save:   no
+Security model: apparmor
+Security DOI:   0
+Security label: libvirt-6927f044-00e0-46ad-bce9-0c1687df47e0 (enforcing)
